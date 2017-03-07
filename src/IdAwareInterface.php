@@ -5,14 +5,14 @@ namespace Dhii\Data;
 /**
  * Something that can be identifiable by ID.
  *
- * @since [*next-version*]
+ * @since 0.1
  */
 interface IdAwareInterface
 {
     /**
      * Retrieves the unique ID of the object represented by this instance.
      *
-     * @since [*next-version*]
+     * @since 0.1
      * 
      * @return int|string The ID.
      */
