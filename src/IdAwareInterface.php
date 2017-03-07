@@ -3,7 +3,7 @@
 namespace Dhii\Data;
 
 /**
- * Something that can be identifiable by ID.
+ * Something that can be identified by ID.
  *
  * @since 0.1
  */
