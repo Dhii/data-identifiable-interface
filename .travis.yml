@@ -9,7 +9,7 @@ php:
   - nightly
 
 before_script:
-  - composer update
+  - composer update --prefer-dist
 
 script:
   - vendor/bin/phpunit
