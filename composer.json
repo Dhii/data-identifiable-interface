@@ -25,6 +25,12 @@
             "Dhii\\Data\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Dhii\\Data\\UnitTest\\": "test/unit",
+            "Dhii\\Data\\FuncTest\\": "test/functional"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-develop": "0.1.x-dev"
